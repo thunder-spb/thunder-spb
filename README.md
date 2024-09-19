@@ -1,5 +1,10 @@
 ## Hi there 👋
 
+## My Badges
+<!-- my-badges start -->
+<!-- my-badges end -->
+
+
 <!--
 **thunder-spb/thunder-spb** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
