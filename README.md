@@ -1,6 +1,5 @@
 ## Hi there 👋
 
-## My Badges
 <!-- my-badges start -->
 <!-- my-badges end -->
 
